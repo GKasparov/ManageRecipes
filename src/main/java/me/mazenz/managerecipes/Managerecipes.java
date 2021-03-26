@@ -21,7 +21,7 @@ public final class Managerecipes extends JavaPlugin {
         saveConfig();
 
         Logger logger = this.getLogger();
-        new UpdateChecker(this, 88223).getVersion(version -> {
+        new UpdateChecker(this, 90595).getVersion(version -> {
             if (this.getDescription().getVersion().equalsIgnoreCase(version)) {
                 logger.info("The latest version of ManageRecipes is running (0.1)");
             } else {
