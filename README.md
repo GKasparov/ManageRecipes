@@ -1,0 +1,8 @@
+# ManageRecipes
+Create custom recipes for your server!
+
+Configuration Notes:
+# Example Recipe (Diamond_Ore). You can create one by adding another subsection of recipes and name it the proper item name in full capital letters.
+    # You can find the proper names in https://www.minecraft-servers-list.org/id-list/ . Ensure to have all the ingredients fully capitalised.
+    # Furthermore, the order of the recipe is from left to right as you go down the list of materials. So first three are left to right of first row.
+    # Then the next 3 are of the second row and so on.
