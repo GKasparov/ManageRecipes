@@ -1,0 +1,6 @@
+name: ManageRecipes
+version: 1.0
+main: me.mazenz.managerecipes.Managerecipes
+api-version: 1.16.5
+authors: [ GKasparov ]
+description: Manage your server's recipes!
